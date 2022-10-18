@@ -774,10 +774,6 @@ background-size: 80%
 ## Status of bull trout in the Pacific Northwest is mixed 
 ]
 
-.futnote.purple-text[`r icon_style(fontawesome("envelope"), fill = "#844870")` scheuerl@uw.edu]
-
-.citation.blue-text[`r icon_style(fontawesome("twitter"), fill = "#488fdf")` @mark_scheuerell]
-
 
 ---
 
@@ -788,10 +784,6 @@ background-size: 80%
 
 ## Data quality affects our ability to assess trends
 ]
-
-.futnote.purple-text[`r icon_style(fontawesome("envelope"), fill = "#844870")` scheuerl@uw.edu]
-
-.citation.blue-text[`r icon_style(fontawesome("twitter"), fill = "#488fdf")` @mark_scheuerell]
 
 
 ---
@@ -806,32 +798,12 @@ background-size: 80%
 ## State-space models can help 
 ]
 
-.futnote.purple-text[`r icon_style(fontawesome("envelope"), fill = "#844870")` scheuerl@uw.edu]
-
-.citation.blue-text[`r icon_style(fontawesome("twitter"), fill = "#488fdf")` @mark_scheuerell]
-
 
 ---
 
-## Open science
+class: center, middle, inverse
 
-### https://github.com/mdscheuerell/bulltrout
-
-## Image credits
-
-.blue-text[
-#### Chimps: *Lantern Press*  
-
-#### Carnival: *Frank Kovalchek*   
-
-#### Robin Hood: *John Escott*  
-
-#### Bull trout sampling: *Brett Bowersox*  
-]
-
-.futnote.purple-text[`r icon_style(fontawesome("envelope"), fill = "#844870")` scheuerl@uw.edu]
-
-.citation.blue-text[`r icon_style(fontawesome("twitter"), fill = "#488fdf")` @mark_scheuerell]
+# Size and abundance of resident Chinook salmon in the Salish Sea: Insights from a culturally unique recreational fishery
 
 
 ---
@@ -999,7 +971,7 @@ background-size: 85%
 
 ---
 
-# Analyzing changes in fish mass via two-part _state-space_ models
+# Modeling changes in fish mass via _state-space_ models
 
 .blue-text[
 ## 1) State (process) model
@@ -1157,32 +1129,46 @@ class: middle
 ## Image credits
 
 .blue-text[
-### Camp Harmony: *MOHAI*  
+#### Chimps: *Lantern Press*  
 
-### Blackmouth: *WDFW*  
+#### Carnival: *Frank Kovalchek*   
 
-### Tengu artwork: *Utagawa Kuniyoshi*
+#### Robin Hood: *John Escott*  
 
-### Mooching setup: *Andrew Moravec*
+#### Bull trout sampling: *Brett Bowersox*  
 
-### Tengu derby: *Tom Quinn*   
+#### Camp Harmony: *MOHAI*  
 
-### Purse seiner: *Jim Borrow*  
+#### Blackmouth: *WDFW*  
+
+#### Tengu artwork: *Utagawa Kuniyoshi*
+
+#### Mooching setup: *Andrew Moravec*
+
+#### Tengu derby: *Tom Quinn*   
+
+#### Purse seiner: *Jim Borrow*  
 ]
 
 
 ---
 
-## Journal article (open access)
-
-### https://doi.org/10.1002/mcf2.10205
-
 ## Open science
+
+### https://github.com/mdscheuerell/bulltrout
 
 ### https://github.com/mdscheuerell/tengu
 
-## Presentation
 
-### https://github.com/mdscheuerell/tengu/presentation
+---
+
+## Tengu journal article (open access)
+
+### https://doi.org/10.1002/mcf2.10205
+
+
+## This presentation
+
+### https://github.com/mdscheuerell/wacfwru-mtg/2002
 
 
