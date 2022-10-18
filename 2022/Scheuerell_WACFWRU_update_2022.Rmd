@@ -19,7 +19,9 @@ library(icons)
 
 class: center, middle
 
-# Assistant Unit Leader - Fish<br>Research update
+# Research update
+
+## Assistant Unit Leader - Fish
 
 ## Mark Scheuerell
 
@@ -30,13 +32,15 @@ class: center, middle
 
 ---
 
-class: center, middle, inverse
+# Overview
 
-# Estimating trends in the abundance<br>of threatened bull trout<br>across the Pacific Northwest
 
 
 ---
 
+class: center, middle, inverse
+
+# Estimating trends in the abundance<br>of threatened bull trout<br>across the Pacific Northwest
 
 
 ---
@@ -526,12 +530,12 @@ y1 <- x1 + rnorm(30, 0, 0.2)
 y2 <- x2 + rnorm(30, 0, 0.2)
 
 par(mfrow = c(1,2), mai = c(1, 1, 0.75, 0))
-plot.ts(x1, las = 1, col = "gray", lwd = 2, ylim = range(x1, y1),
+plot.ts(x1, las = 1, col = "gray", lwd = 3, ylim = range(x1, y1),
         ylab = expression(italic(x[t])), main = "")
 mtext("Positive bias", side = 3, line = 1, cex = 2)
 lines(y1, col = "dodgerblue", lwd = 2)
 
-plot.ts(x2, las = 1, col = "gray", lwd = 2, ylim = range(x2, y2),
+plot.ts(x2, las = 1, col = "gray", lwd = 3, ylim = range(x2, y2),
         ylab = expression(italic(x[t])), main = "")
 mtext("Negative bias", side = 3, line = 1, cex = 2)
 lines(y2, col = "indianred", lwd = 2)
@@ -616,7 +620,7 @@ clr <- viridisLite::mako(4, begin = 0.4, end = 0.9)
 
 par(mai = c(1, 1, 0.1, 0.1))
 
-plot.ts(x1, las = 1, col = "gray", lwd = 2, ylim = range(x1, y1, y2, y3),
+plot.ts(x1, las = 1, col = "gray", lwd = 3, ylim = range(x1, y1, y2, y3),
         ylab = expression(paste(italic(x[t]), "  or  ", italic(y[t]))), main = "")
 lines(y1, col = clr[1], lwd = 2)
 lines(y2, col = clr[2], lwd = 2)
@@ -813,7 +817,7 @@ class: center, middle, inverse
 .blue-text[
 ## Tom Quinn (U Washington)
 
-## James Losee (WA Dept Fish Wildlife)
+## James Losee (WDFW)
 
 ## Doug Hanada (Tengu Club)
 ]
@@ -1126,7 +1130,7 @@ class: middle
 
 ---
 
-## Image credits
+# Image credits
 
 .blue-text[
 #### Chimps: *Lantern Press*  
@@ -1153,7 +1157,7 @@ class: middle
 
 ---
 
-## Open science
+# Open science
 
 ### https://github.com/mdscheuerell/bulltrout
 
@@ -1162,12 +1166,13 @@ class: middle
 
 ---
 
-## Tengu journal article (open access)
+# Tengu journal article (open access)
 
 ### https://doi.org/10.1002/mcf2.10205
 
+<br>
 
-## This presentation
+# This presentation
 
 ### https://github.com/mdscheuerell/wacfwru-mtg/2002
 
