@@ -22,14 +22,62 @@ class: center, middle
 
 # RESEARCH UPDATE
 
-## Assistant Unit Leader - Fish
-
 ## Mark Scheuerell
+
+## Assistant Unit Leader - Fish
 
 ### .futnote.blue-text[Annual Cooperators Meeting]
 
 ### .citation.blue-text[October 2023]
 
+
+---
+
+background-image: url(figs/yelloweye.png)
+background-size: cover
+
+
+---
+
+class: center, middle, inverse
+
+# Data-limited assessment methods shed light on ESA-listed Yelloweye Rockfish in Puget Sound
+
+
+---
+
+# Collaborators
+
+.pull-left[
+
+### .purple-text[ Markus Min (UW) ]
+
+### .blue-text[ Jason Cope (NOAA) ]
+
+### .blue-text[ Dayv Lowry (NOAA) ]
+
+### .blue-text[ James Selleck (NOAA) ]
+
+]
+
+.pull-right[
+
+### .blue-text[ Daniel Tonnes (NOAA) ]
+
+### .green-text[ Bob Pacunski (WDFW) ]
+
+### .green-text[ Andrea Hennings (WDFW) ]
+
+]
+
+
+---
+
+background-image: url(figs/QR_rockfish_paper.png)
+background-size: 20%
+background-position: bottom right
+
+# THIS IS AWESOME
 
 ---
 
@@ -41,40 +89,18 @@ background-size: cover
 
 class: center, middle, inverse
 
-# Estimating trends in the abundance<br>of threatened bull trout<br>across the Pacific Northwest
+# Intertidal fish and crabs use shellfish farms as foraging habitat in Puget Sound
 
 
 ---
 
 # Collaborators
 
-.pull-left[
+### .purple-text[ Karl Veggerby (UW) ]
 
-### .green-text[ Brett Bowersox (IDFG) ]
+### .blue-text[ Beth Sanderson (NOAA) ]
 
-### .green-text[ Dan Brewer (USFWS) ]
-
-### .blue-text[ Erin Britton-Kuttel (USFWS) ]
-
-### .blue-text[ Sean Finn (USFWS) ]
-
-### .green-text[ Stephanie Gunckel (ODFW) ]
-
-]
-
-.pull-right[
-
-### .blue-text[ Craig Hansen (USFWS) ]
-
-### .blue-text[ Rebecca Migala (USFWS) ]
-
-### .blue-text[ Dan Nolfi (USFWS) ]
-
-### .green-text[ Marie Winkowski (WDFW) ]
-
-### .blue-text[ Alan Yanahan (USFWS) ]
-
-]
+### .blue-text[ Peter Kiffney (NOAA) ]
 
 
 ---
@@ -82,9 +108,11 @@ class: center, middle, inverse
 # Big picture
 
 .blue-text[
+
 ## Differences in size suggest something unique going on in Puget Sound relative to Pacific Ocean
 
 ## Tengu Club's meticulous record keeping & willingness to collaborate offered unprecedented analysis
+
 ]
 
 
@@ -93,25 +121,11 @@ class: center, middle, inverse
 # Image credits
 
 .blue-text[
-#### Chimps: *Lantern Press*  
+
+#### Yelloweye Rockfish: *Andrea Hennings*  
 
 #### Carnival: *Frank Kovalchek*   
 
-#### Robin Hood: *John Escott*  
-
-#### Bull trout sampling: *Brett Bowersox*  
-
-#### Camp Harmony: *MOHAI*  
-
-#### Blackmouth: *WDFW*  
-
-#### Tengu artwork: *Utagawa Kuniyoshi*
-
-#### Mooching setup: *Andrew Moravec*
-
-#### Tengu derby: *Tom Quinn*   
-
-#### Purse seiner: *Jim Borrow*  
 ]
 
 
@@ -126,9 +140,9 @@ class: center, middle, inverse
 
 ---
 
-# Tengu journal article (open access)
+# Rockfish journal article (open access)
 
-### https://doi.org/10.1002/mcf2.10205
+### https://doi.org/10.1002/mcf2.10251
 
 <br>
 
