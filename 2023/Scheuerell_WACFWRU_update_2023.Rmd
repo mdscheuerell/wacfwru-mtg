@@ -106,7 +106,7 @@ background-size: cover
 
 ## Genetically distinct from outer coast populations
 
-## Spawning potential ratio (SPR) chosen as recovery criterion
+## Spawning potential ratio chosen as recovery criterion
 
 ## Limited data on age, size, length, abundance & _species_
 
@@ -374,6 +374,20 @@ background-position: 45% 60%
 ## Modifying habitat will change species composition & species usage
 
 ]
+
+
+---
+
+class: center, middle, inverse
+
+# Returns on investments for ESA-listed salmon
+
+
+---
+
+# Collaborator
+
+## .blue-text[ Bill Jaeger (OSU) ]
 
 
 ---
