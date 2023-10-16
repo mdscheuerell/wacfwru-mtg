@@ -33,15 +33,6 @@ class: center, middle
 
 ---
 
-1) what is the research question
-
-2) how are you going to address it
-
-3) what conservation problem will it solve?
-
-
----
-
 class: center, middle, inverse
 
 # Shedding light on ESA-listed<br>Yelloweye Rockfish in Puget Sound
@@ -102,7 +93,7 @@ background-size: cover
 
 ## 77% decline from 1977 to 2014
 
-## Listed as _threatened_ &nbsp; under ESA in 2010
+## Listed as **threatened** under ESA in 2010
 
 ]
 
@@ -124,7 +115,12 @@ background-size: cover
 
 ---
 
-# 
+class: inverse, middle
+
+# What is the current stock status of Yelloweye in Puget Sound
+
+
+---
 
 .blue-text[
 
@@ -219,37 +215,163 @@ background-position: 50% 80%
 
 ---
 
-background-image: url(figs/drayton.png)
-background-size: cover
-
-
----
-
 class: center, middle, inverse
 
-# Intertidal fish and crabs use shellfish farms as foraging habitat in Puget Sound
+# Shellfish farms as foraging habitat for fishes and crabs in Puget Sound
 
 
 ---
 
 # Collaborators
 
-### .purple-text[ Karl Veggerby (UW) ]
+## .purple-text[ Karl Veggerby (UW) ]
 
-### .blue-text[ Beth Sanderson (NOAA) ]
+## .blue-text[ Beth Sanderson (NOAA) ]
 
-### .blue-text[ Peter Kiffney (NOAA) ]
+## .blue-text[ Peter Kiffney (NOAA) ]
 
 
 ---
 
-# Big picture
+# Oyster reefs in the US
 
 .blue-text[
 
-## Differences in size suggest something unique going on in Puget Sound relative to Pacific Ocean
+## Reef biomass has declined 88% 
 
-## Tengu Club's meticulous record keeping & willingness to collaborate offered unprecedented analysis
+## Reef spatial extent has declined 64%
+
+## In WA, native Olympia oysters are functionally extinct
+
+]
+
+
+---
+
+background-image: url(figs/shellfish_farms.png)
+background-size: 100%
+background-position: 50% 100%
+
+# Shellfish farms in Puget Sound provide
+
+.blue-text[
+
+## Millions of pounds of healthy seafood each year
+
+## 1000+ jobs, often in remote areas 
+
+## $100+ million in revenue each year
+
+]
+
+
+---
+
+class: inverse
+
+background-image: url(figs/mudflats_eelgrass.png)
+background-size: 100%
+
+# But they replace mudflats & eelgrass
+
+
+---
+
+# Mudflats & eelgrass are important for
+
+.blue-text[
+
+## Fish & invertebrate foraging
+
+## Sediment stabilization
+
+## Carbon sequestration
+
+## Recreation (eg, clam digging)
+
+]
+
+
+---
+
+class: inverse, middle
+
+# To what extent do fish and crabs use oyster farms for foraging?
+
+
+---
+
+# Approach
+
+.blue-text[
+
+## Sample fishes and crabs from inside & adjacent to shellfish sites at 3 locations in Puget Sound
+
+## Use stable isotopes to estimate diet sources
+
+]
+
+
+---
+
+background-image: url(figs/drayton.png)
+background-size: cover
+
+
+---
+
+class: inverse
+
+background-image: url(figs/intertidal_animals.png)
+background-size: 100%
+
+
+---
+
+class: center
+
+background-image: url(figs/color_mixing.jpg)
+background-size: 80%
+background-position: 50% 30%
+
+# Isotope mixing model
+
+<br><br><br><br><br><br><br><br>
+
+# How much .blue-text[blue] & .red-text[red] to make .purple-text[purple]?
+
+
+---
+
+class: center
+
+background-image: url(figs/shiner_diets.png)
+background-size: 92%
+background-position: 52% 60%
+
+# Diet sources
+
+
+---
+
+class: center
+
+background-image: url(figs/crab_diets.png)
+background-size: 90%
+background-position: 45% 60%
+
+# Diet sources
+
+
+---
+
+# Takeaways
+
+.blue-text[
+
+## Habitat use is species specific
+
+## Modifying habitat will change species composition & species usage
 
 ]
 
@@ -260,9 +382,9 @@ class: center, middle, inverse
 
 .blue-text[
 
-#### Yelloweye Rockfish: *Andrea Hennings*  
+### Yelloweye Rockfish: *Andrea Hennings*  
 
-#### Carnival: *Frank Kovalchek*   
+### Shellfish farms & creatures: *Karl Veggerby*   
 
 ]
 
@@ -271,18 +393,12 @@ class: center, middle, inverse
 
 # Open science
 
-### https://github.com/mdscheuerell/bulltrout
+### https://github.com/markusmin/ESA_RF_2021
 
-### https://github.com/mdscheuerell/tengu
+### https://github.com/veggerk/veggerby_2023_stable-iso_habitat
 
 
 ---
-
-# Rockfish journal article (open access)
-
-### https://doi.org/10.1002/mcf2.10251
-
-<br>
 
 # This presentation
 
