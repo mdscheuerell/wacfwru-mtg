@@ -497,6 +497,56 @@ class: inverse, center, middle
 
 ---
 
+# Data
+
+.large.blue-text[
+
+- Spending info from USFWS annual reports
+
+- Adult salmon counts from Bonneville Dam (USACE)
+
+- Hatchery releases from Regional Mark Information System
+
+- Environmental data from NOAA & Columbia Basin Research
+
+]
+
+
+---
+
+# Approach
+
+.large.blue-text[
+
+- Used time lags to match environment and life history
+
+- Considered one-year and accumulated spending
+
+- Fit regression models and evaluated data support
+
+]
+
+
+---
+
+class: inverse
+
+background-image: url(figs/model_fits.png)
+background-size: 100%
+background-position: 50% 50%
+
+
+---
+
+class: inverse
+
+background-image: url(figs/model_comparison.png)
+background-size: 100%
+background-position: 50% 50%
+
+
+---
+
 background-image: url(figs/QR_columbia_econ.png)
 background-size: 20%
 background-position: 50% 80%
@@ -525,6 +575,8 @@ background-position: 50% 80%
 ### Yelloweye Rockfish: *Andrea Hennings*  
 
 ### Shellfish farms & creatures: *Karl Veggerby*   
+
+### Columbia basin map: *US Army Corps of Engineers*   
 
 ]
 
