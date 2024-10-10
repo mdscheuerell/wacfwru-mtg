@@ -1,20 +1,59 @@
 ---
+# title: "Research update"
+# subtitle: "AUL - Fish"
+# author: "Mark Scheuerell"
 output:
   xaringan::moon_reader:
-    css: "my-theme.css"
-    lib_dir: libs
+    css: ["xaringan-themer.css", "my-theme.css"]
     nature:
+      slideNumberFormat: ""
       highlightStyle: github
       highlightLines: true
+      ratio: 16:9
+      # countIncrementalSlides: false
 ---
 
-```{r setup, include=FALSE, message=FALSE}
-options(htmltools.dir.version = FALSE, servr.daemon = TRUE)
-knitr::opts_chunk$set(echo = FALSE, message = FALSE, dpi = 300,
-                      out.height="100%", out.width="100%")
-library(icons)
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=8, fig.height=4, fig.retina=3, fig.align = "center",
+  out.width = "100%",
+  cache = FALSE,
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
 
-## chakra: libs/remark-latest.min.js
+## set random seed
+set.seed(666)
+
+## load {icons} for font awesome
+library(icons)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo(
+  primary_color = "#FFFFFF",
+  secondary_color = "#23395b",
+  # secondary_color = "#FF961C",
+  title_slide_text_color = "#FFFFFF",
+  title_slide_background_color = "#23395b",
+  colors = c(
+    red = "#f34213",
+    purple = "#844870",
+    orange = "#FF961C",
+    green = "#339933",
+    white = "#FFFFFF",
+    blue = "#488fdf",
+    aqua = "#80cdc1",
+    gray = "#808080",
+    lightgray = "#bdbdbd"
+),
+  header_font_google = google_font("Roboto Condensed"),
+  text_font_google = google_font("Cabin", "400", "400i", "700"),
+)
 ```
 
 
@@ -26,9 +65,9 @@ class: center, middle
 
 ## Assistant Unit Leader - Fish
 
-### .futnote.blue-text[Annual Cooperators Meeting]
+### .futnote.blue[Annual Cooperators Meeting]
 
-### .citation.blue-text[October 2024]
+### .citation.blue[October 2023]
 
 
 ---
@@ -42,13 +81,13 @@ class: center, middle, inverse
 
 # Collaborators
 
-### .purple-text[ Nicole Doran (UW) ]
+### .purple[ Nicole Doran (UW) ]
 
-### .green-text[ Roger Tabor (USFWS) ]
+### .green[ Roger Tabor (USFWS) ]
 
-### .green-text[ Aaron Bosworth (WDFW) ]
+### .green[ Aaron Bosworth (WDFW) ]
 
-### .green-text[ Jim Bower (King Co) ]
+### .green[ Jim Bower (King Co) ]
 
 <br>
 
@@ -57,301 +96,26 @@ class: center, middle, inverse
 
 ---
 
-class: inverse
+class: center, inverse-black
 
-background-image: url(figs/yelloweye.png)
-background-size: cover
-
-# Fun facts about Yelloweye Rockfish
-
-.large.white-text[
-
-- Reproduce at 10-20 years
-
-- Max size of 1 m & 18 kg
-
-- Live up to 120 years
-
-]
-
-
----
-
-# History of Yelloweye Rockfish in Puget Sound
-
-.large.blue-text[
-
-- Very little exploitation prior to 1960s
-
-- Harvest increased after 1974 Boldt Decision
-
-- 77% decline from 1977 to 2014
-
-- Listed as **threatened** under ESA in 2010
-
-]
-
-
----
-
-# ESA listing & status review
-
-.large.blue-text[
-
-- Genetically distinct from outer coast populations
-
-- Proportion of unfished reproductive potential chosen as recovery criterion
-
-- Limited data on age, size, abundance & _species_
-
-]
-
-
----
-
-class: inverse, center, middle
-
-# What is the current stock status of Yelloweye in Puget Sound?
-
-
----
-
-.blue-text[
-
-# Problem
-
-]
-
-## Assessing the status of a data-limited, ESA-listed population
-
-.green-text[
-
-<br>
-
-# Solution
-
-]
-
-## Use a stock assessment model developed for commercial species under Magnuson-Stevens
-
-
----
-
-# NOAA's Stock Synthesis 
-
-.large.blue-text[
-
-- Statistical age-structured population model
-
-- Modifed to use catch and length data only
-
-]
-
-
----
-
-# Approach
-
-.large.blue-text[
-
-- Use length data from 3 hook-and-line research surveys (1 in 1970s, 2 in 2010s)
-
-- Develop catch scenarios from recreational (1970-2007) and commerical harvest (1921-2007)
-
-]
-
-
----
-
-class: right
-
-background-image: url(figs/yelloweye_lengths.png)
-background-size: 40%
-background-position: center middle
-
-<br><br>
-
-# 1975 &nbsp; &nbsp; &nbsp;
-
-<br><br><br><br><br><br><br>
-
-# 2015 &nbsp; &nbsp; &nbsp;
-
-
----
-
-class: right
-
-background-image: url(figs/yelloweye_catches.png)
-background-size: 70%
-background-position: 5% 50%
-
-<br><br>
-
-## Commercial
-
-<br><br><br><br><br><br><br>
-
-## Recreational
-
-
----
-
-background-image: url(figs/yelloweye_spr.png)
-background-size: 95%
-background-position: 50% 70%
-
-# Relative stock size
-
-
----
-
-background-image: url(figs/QR_rockfish_paper.png)
-background-size: 20%
-background-position: 50% 80%
-
-# Takeaways
-
-.large.blue-text[
-
-- Currently, stock is likely above NOAA's 25% reference point
-
-- Our results were incorporated directly into most recent status update
-
-<br><br>
-
-]
-
-## Read more here &#8594;
-
-
----
-
-class: center, middle, inverse
-
-# Shellfish farms as foraging habitat for fishes and crabs in Puget Sound
-
-
----
-
-# Collaborators
-
-## .purple-text[ Karl Veggerby (UW) ]
-
-## .blue-text[ Beth Sanderson (NOAA) ]
-
-## .blue-text[ Peter Kiffney (NOAA) ]
-
-<br>
-
-## Funding: NOAA
-
-
----
-
-# Oyster reefs in the US
-
-.large.blue-text[
-
-- Reef biomass has declined 88% 
-
-- Reef spatial extent has declined 64%
-
-- In WA, native Olympia oysters are functionally extinct
-
-]
-
-
----
-
-class: inverse, center
-
-background-image: url(figs/flip_bags.png)
-background-size: 70%
+background-image: url(figs/kokanee.jpg)
+background-size: 100%
 background-position: 50% 50%
 
-# Solution: shellfish farms
+# .white[Kokanee salmon]
+
+### .credit2.white[Photo: Roger Tabor]
 
 
 ---
 
-background-image: url(figs/shellfish_farms.png)
-background-size: 100%
-background-position: 50% 100%
+class: center, inverse-black
 
-# Shellfish farms in Puget Sound provide
+background-image: url(figs/culvert.jpg)
+background-size: 85%
+background-position: 50% 50%
 
-.large.blue-text[
-
-- Millions of pounds of healthy seafood each year
-
-- 1000+ jobs, often in remote areas 
-
-- $100+ million in revenue each year
-
-]
-
-
----
-
-class: inverse, center
-
-background-image: url(figs/mudflats_eelgrass.png)
-background-size: 100%
-
-# But they replace mudflats & eelgrass
-
-
----
-
-# Mudflats & eelgrass are important for
-
-.large.blue-text[
-
-- Fish & invertebrate foraging
-
-- Sediment stabilization
-
-- Carbon sequestration
-
-- Recreation (eg, clam digging)
-
-]
-
-
----
-
-class: inverse, middle, center
-
-# To what extent do fish and crabs use oyster farms for foraging?
-
-
----
-
-# Approach
-
-.large.blue-text[
-
-- Sample fishes and crabs from inside & adjacent to shellfish sites at 3 locations in Puget Sound
-
-- Use stable isotopes to estimate diet sources
-
-]
-
-
----
-
-background-image: url(figs/drayton.png)
-background-size: cover
-
-
----
-
-class: inverse
-
-background-image: url(figs/intertidal_animals.png)
-background-size: 100%
-
+### .credit.white[Photo: King County]
 
 ---
 
@@ -363,200 +127,16 @@ background-position: 50% 30%
 
 # Isotope mixing model
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
-# How much .blue-text[blue] & .red-text[red] to make .purple-text[purple]?
-
-
----
-
-class: center
-
-background-image: url(figs/shiner_diets.png)
-background-size: 92%
-background-position: 52% 60%
-
-# Diet sources
-
-
----
-
-class: center
-
-background-image: url(figs/crab_diets.png)
-background-size: 90%
-background-position: 45% 60%
-
-# Diet sources
-
-
----
-
-# Takeaways
-
-.large.blue-text[
-
-- Use of aquaculture habitat varies by species
-
-- Modifying habitat will change species composition & species usage
-
-]
-
-
----
-
-class: center, middle, inverse
-
-# Returns on investments for ESA-listed salmon in the Columbia River
-
-
----
-
-# Collaborator
-
-## .blue-text[ Bill Jaeger (Oregon State Univ) ]
-
-
----
-
-class: inverse, center, middle
-
-# I'd tell you an economics joke,<br>but there's just no demand
-
-
----
-
-# Salmon declines and the 4 H's 
-
-.large.blue-text[
-
-- Hydropower & other dams
-
-- Habitat loss & degradation
-
-- Harvest management
-
-- Hatchery effects
-
-]
-
-
----
-
-class: inverse
-
-background-image: url(figs/columbia_basin.png)
-background-size: 85%
-background-position: 50% 50%
-
-
----
-
-# Recovery has a long & expensive history 
-
-.large.blue-text[
-
-- Began after passage of the 1938 Michell Act
-
-- Increased dramatically after ESA listings in 1990s
-
-- More than **$9 billion** spent in past 40 years
-
-]
-
-
----
-
-class: inverse
-
-background-image: url(figs/returns_spending.png)
-background-size: 100%
-background-position: 50% 50%
-
-
----
-
-class: inverse, center, middle
-
-# What has the large restoration investment done for ESA-listed salmon?
-
-
----
-
-# Data
-
-.large.blue-text[
-
-- Spending info from USFWS annual reports
-
-- Adult salmon counts from Bonneville Dam (USACE)
-
-- Hatchery releases from Regional Mark Information System
-
-- Environmental data from NOAA & Columbia Basin Research
-
-]
-
-
----
-
-# Approach
-
-.large.blue-text[
-
-- Used time lags to match environment and life history
-
-- Considered one-year and accumulated spending
-
-- Fit regression models and evaluated data support
-
-]
-
-
----
-
-class: inverse
-
-background-image: url(figs/model_fits.png)
-background-size: 100%
-background-position: 50% 50%
-
-
----
-
-class: inverse
-
-background-image: url(figs/model_comparison.png)
-background-size: 100%
-background-position: 50% 50%
-
-
----
-
-background-image: url(figs/QR_columbia_econ.png)
-background-size: 20%
-background-position: 50% 80%
-
-# Summary
-
-.large.blue-text[
-
-- Spending & hatchery production are associated with substantial increases in returning fish, but...
-
-- Returns due to spending & hatchery releases do not exceed those from hatchery estimates alone
-
-<br><br>
-
-]
-
-## Read more here &#8594;
+# How much .blue[blue] & .red[red] to make .purple[purple]?
 
 
 ---
 
 # Image credits
 
-.blue-text[
+.blue[
 
 ### Yelloweye Rockfish: *Andrea Hennings*  
 
