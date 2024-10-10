@@ -67,7 +67,7 @@ class: center, middle
 
 ### .futnote.blue[Annual Cooperators Meeting]
 
-### .citation.blue[October 2023]
+### .citation.blue[October 2024]
 
 
 ---
@@ -81,7 +81,7 @@ class: center, middle, inverse
 
 # Collaborators
 
-### .purple[ Nicole Doran (UW) ]
+### .purple[ Nicole Doran (PhD student) ]
 
 ### .green[ Roger Tabor (USFWS) ]
 
@@ -109,13 +109,83 @@ background-position: 50% 50%
 
 ---
 
+class: inverse-red, center, middle
+
+# .white[Threats to Kokanee in Lake Sammamish]
+
+
+---
+
+class: center, inverse-black
+
+background-image: url(figs/l_samm_aerial.png)
+background-size: 85%
+background-position: 50% 50%
+
+# .white[Watershed development]
+
+### .credit.white[Photos: King County]
+
+
+---
+
 class: center, inverse-black
 
 background-image: url(figs/culvert.jpg)
 background-size: 85%
 background-position: 50% 50%
 
+# .white[Problems with habitat]
+
 ### .credit.white[Photo: King County]
+
+
+---
+
+class: center
+
+background-image: url(figs/nonnatives.png)
+background-size: 80%
+background-position: 50% 80%
+
+# Introduced fishes
+
+
+---
+
+# Stable isotopes 101
+
+> ## .blue[Many elements have isotopes with varying neutrons]
+
+
+---
+
+# Stable isotopes 101
+
+> ## .blue[Many elements have isotopes with varying neutrons]
+
+> ## .blue[Carbon isotopes tell us something about source]
+
+> ## .blue[Nitrogen isotopes tell us something about trophic level]
+
+
+---
+
+class: center
+
+background-image: url(figs/iso-beer.png)
+background-size: 75%
+background-position: 50% 50%
+
+
+---
+
+class: center
+
+background-image: url(figs/iso-biplot.jpg)
+background-size: 65%
+background-position: 50% 50%
+
 
 ---
 
@@ -134,17 +204,65 @@ background-position: 50% 30%
 
 ---
 
-# Image credits
+class: middle, center
 
-.blue[
+# Yellow perch derive ~25% of their energy <br> from Kokanee
 
-### Yelloweye Rockfish: *Andrea Hennings*  
 
-### Shellfish farms & creatures: *Karl Veggerby*   
+---
 
-### Columbia basin map: *US Army Corps of Engineers*   
+class: center
 
-]
+background-image: url(figs/global_temp.png)
+background-size: 60%
+background-position: 50% 50%
+
+### .credit2[Image: NASA]
+
+
+---
+
+class: center
+
+background-image: url(figs/bioenergetics.png)
+background-size: 90%
+background-position: 50% 50%
+
+
+---
+
+class: center
+
+background-image: url(figs/bioenergetics_2.png)
+background-size: 90%
+background-position: 50% 50%
+
+
+---
+
+class: center, inverse-black
+
+background-image: url(figs/zonation.png)
+background-size: 100%
+background-position: 50% 50%
+
+
+---
+
+class: center, inverse-black
+
+background-image: url(figs/metalimnion.png)
+background-size: 100%
+background-position: 50% 50%
+
+
+---
+
+class: center, inverse-black
+
+background-image: url(figs/temp-do.png)
+background-size: 100%
+background-position: 50% 50%
 
 
 ---
