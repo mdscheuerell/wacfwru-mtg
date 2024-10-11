@@ -153,20 +153,58 @@ background-position: 50% 80%
 
 ---
 
-# Stable isotopes 101
+class: middle
 
-> ## .blue[Many elements have isotopes with varying neutrons]
+> # What are the consumptive effects <br> of yellow perch on Kokanee?
 
 
 ---
 
-# Stable isotopes 101
+class: middle, center
+
+# To answer this, we're using <br> stable isotope analysis
+
+
+---
+
+# Stable Isotopes 101
 
 > ## .blue[Many elements have isotopes with varying neutrons]
 
-> ## .blue[Carbon isotopes tell us something about source]
+> ## .blue[eg, <sup>12</sup>C <sup>13</sup>C <sup>14</sup>C]
 
-> ## .blue[Nitrogen isotopes tell us something about trophic level]
+> ## .blue[Those than are _not_ radioactive are "stable" (<sup>12</sup>C <sup>13</sup>C)]
+
+
+---
+
+# Stable Isotopes 101
+
+> ## .blue[Lighter isotopes are favored in cellular processes]
+
+> ## .blue[This leads to measurable "fractionation"]
+
+
+---
+
+# Stable Isotopes 101
+
+> ## .blue[Carbon isotopes tell us about energy source]
+
+> ## .blue[eg, rice or wheat (C3) vs corn (C4)]
+
+
+---
+
+# Stable Isotopes 101
+
+> ## .blue[Carbon isotopes tell us about energy source]
+
+> ## .blue[eg, rice or wheat (C3) vs corn (C4)]
+
+> ## .green[Nitrogen isotopes tell us about trophic level]
+
+> ## .green[ie, consumers accumulate heavier isotope]
 
 
 ---
@@ -189,17 +227,13 @@ background-position: 50% 50%
 
 ---
 
-class: center
-
 background-image: url(figs/color_mixing.jpg)
 background-size: 80%
-background-position: 50% 30%
+background-position: 50% 50%
 
-# Isotope mixing model
+# .center[Isotope mixing model]
 
-<br><br><br><br><br><br><br><br><br><br><br>
-
-# How much .blue[blue] & .red[red] to make .purple[purple]?
+# .align-bottom-center[How much .blue[blue] & .red[red] to make .purple[purple]?]
 
 
 ---
@@ -218,6 +252,27 @@ background-size: 60%
 background-position: 50% 50%
 
 ### .credit2[Image: NASA]
+
+
+---
+
+class: middle
+
+> # What are the effects of warmer water on yellow perch and Kokanee?
+
+
+---
+
+class: middle, center
+
+# To answer this, we're using <br> bioenergetics models
+
+
+---
+
+class: middle, center
+
+# growth = consumption - (metabolism + waste)
 
 
 ---
@@ -267,9 +322,9 @@ background-position: 50% 50%
 
 ---
 
-class: center, inverse
+class: center, middle, inverse
 
-# Spatial and temporal patterns of marine debris in Puget Sound
+# Spatial and temporal patterns <br> of marine debris in Puget Sound
 
 
 ---
