@@ -76,6 +76,26 @@ class: center, middle
 
 class: center, middle, inverse
 
+# Some things I won't discuss today
+
+
+---
+
+class: middle
+
+> ### Improving fish passage restoration via heuristic models
+
+> ### Social influences complement environmental cues to stimulate migrating juvenile salmon
+
+> ### Declining marine survival of steelhead trout linked to climate and ecosystem change
+
+> ### Climate and landform interact to control the source and transport of nitrate in Pacific Northwest rivers
+
+
+---
+
+class: center, middle, inverse
+
 # Assessing the status of Kokanee salmon<br>in Lake Sammamish 
 
 
@@ -436,13 +456,11 @@ background-position: 80% 50%
 
 ---
 
-class: center
-
 background-image: url(figs/debris_over_time.png)
 background-size: 95%
 background-position: 60% 75%
 
-# Marine debris over time
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Marine debris over time
 
 
 ---
@@ -476,11 +494,54 @@ background-position: 50% 50%
 
 ---
 
+class: middle, center, inverse
+
+# Looking ahead
+
+
+---
+
+# Predator diets in L Washington & L Sammamish
+
+### .purple[ TBD (Undergraduate) ]
+
+### .purple[ Nicole Doran (PhD student) ]
+
+### .green[ Regan McNatt & Roger Tabor (USFWS) ]
+
+### .green[ Aaron Bosworth (WDFW) ]
+
+<br>
+
+## Funding: UW Keeler Endowment, USFWS
+
+
+---
+
+# Predator population size in Lake Sammamish
+
+### .purple[ TBD (Undergraduate) ]
+
+### .purple[ Nicole Doran (PhD student) ]
+
+### .green[ Jillian Howard & Jason Schaffler (Muckleshoot Indian Tribe) ]
+
+### .green[ Lake Sammamish Kokanee Work Group (various) ]
+
+### .green[ Recreational anglers ]
+
+## Funding: UW Keeler Endowment
+
+
+---
+
 # Open science
 
-### https://github.com/markusmin/ESA_RF_2021
+### https://github.com/NCDoran/SIA_LSAMM
 
-### https://github.com/veggerk/veggerby_2023_stable-iso_habitat
+### https://github.com/NCDoran/bioenergetics
+
+### https://github.com/calmurakami/Marine-Debris
 
 
 ---
