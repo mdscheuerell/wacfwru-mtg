@@ -43,10 +43,12 @@ style_duo(
   colors = c(
     red = "#f34213",
     purple = "#844870",
+    purple2 = "#5c00b6",
     orange = "#FF961C",
     green = "#339933",
     white = "#FFFFFF",
     blue = "#488fdf",
+    blue2 = "#030c84",
     aqua = "#80cdc1",
     gray = "#808080",
     lightgray = "#bdbdbd"
@@ -233,7 +235,7 @@ background-position: 50% 50%
 
 # .center[Isotope mixing model]
 
-# .align-bottom-center[How much .blue[blue] & .red[red] to make .purple[purple]?]
+# .align-bottom-center.gray[How much .blue2[blue] & .red[red] to make .purple2[purple]?]
 
 
 ---
@@ -270,9 +272,9 @@ class: middle, center
 
 ---
 
-class: middle, center
+class: middle
 
-# growth = consumption - (metabolism + waste)
+# growth = consumption <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - (activity + metabolism + waste)
 
 
 ---
@@ -346,13 +348,64 @@ class: center, middle, inverse
 
 ---
 
+# Problem: Marine debris in Puget Sound
+
+> ## Potential to entangle fish, mammals & birds
+
+
+---
+
+# Problem: Marine debris in Puget Sound
+
+> ## Potential to entangle fish, mammals & birds
+
+> ## Direct ingestion by animals
+
+
+---
+
+# Problem: Marine debris in Puget Sound
+
+> ## Potential to entangle fish, mammals & birds
+
+> ## Direct ingestion by animals
+
+> ## Chemical leaching & physical alteration
+
+
+---
+
+# Problem: Marine debris in Puget Sound
+
+> ## Potential to entangle fish, mammals & birds
+
+> ## Direct ingestion by animals
+
+> ## Chemical leaching & physical alteration
+
+> ## Economic loss to fishing industry
+
+
+---
+
+class: center
+
+background-image: url(figs/debris_over_time.png)
+background-size: 95%
+background-position: 60% 75%
+
+# Marine debris over time
+
+
+---
+
 class: center
 
 background-image: url(figs/debris_maps.png)
 background-size: 95%
 background-position: 50% 50%
 
-# Marine debris in Puget Sound
+# Marine debris across Puget Sound
 
 
 ---
@@ -371,6 +424,15 @@ class: center, inverse-black
 background-image: url(figs/callie_urs.jpg)
 background-size: 75%
 background-position: 50% 50%
+
+
+---
+
+# Next steps
+
+> ## .blue[Statistical modeling of spatio-temporal patterns]
+
+> ## .blue[Present findings at the WA-BC AFS meeting in March]
 
 
 ---
