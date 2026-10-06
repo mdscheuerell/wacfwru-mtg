@@ -1,0 +1,37 @@
+.inverse-black {
+  background-color: #191919;
+  color: #FFFFFF;
+}
+.inverse-red {
+  background-color: #940000;
+  color: #FFFFFF;
+}
+.citation {
+    position: absolute;
+    top: 90%;
+    right: 3%;
+  font-size: 1em;
+}
+.futnote {
+    position: absolute;
+    top: 90%;
+    left: 3%;
+  font-size: 1em;
+}
+.credit {
+    position: absolute;
+    top: 90%;
+    right: 10%;
+  font-size: 1em;
+}
+.credit2 {
+    position: absolute;
+    top: 90%;
+    right: 4%;
+  font-size: 1em;
+}
+.align-bottom-center {
+  position: absolute;
+  bottom: 10%;
+  transform: translateX(15%);
+}
