@@ -152,7 +152,9 @@ class: center, middle, inverse
 
 ### .green[ Tom Quinn (UW) ]
 
-### .green[ Many folks at ADFG & Sitka Sound Science Center ]
+### .green[ Many folks at Alaska Dept Fish & Game ]
+
+### .green[ Many folks at Sitka Sound Science Center ]
 
 <br>
 
@@ -252,7 +254,7 @@ class: center, middle, inverse
 
 class: middle
 
-> # marine CO<sub>2</sub> removal (mCDR) as a way of countering anthropogenic climate change
+> # marine CO<sub>2</sub> removal (mCDR) is a way of countering anthropogenic climate change
 
 
 ---
@@ -361,12 +363,12 @@ class: center, middle
 class: center, inverse-black
 
 background-image: url(figs/marrowstone.jpg)
-background-size: 95%
+background-size: 88%
 background-position: 50% 50%
 
 # .white[Marrowstone Marine Field Station]
 
-### .credit2.white[USGS]
+### .credit.white[USGS]
 
 
 ---
@@ -374,6 +376,16 @@ background-position: 50% 50%
 class: center, middle
 
 # Hatching success of herring eggs<br>under increased pH
+
+
+---
+
+class: center, inverse-black
+
+background-image: url(figs/herring_survey.jpg)
+background-size: 40%
+background-position: 50% 50%
+
 
 ---
 
@@ -406,10 +418,10 @@ background-position: 50% 50%
 
 ---
 
-class: center, inverse-black
+class: center
 
 background-image: url(figs/herring_results.png)
-background-size: 95%
+background-size: 90%
 background-position: 50% 50%
 
 
@@ -478,9 +490,20 @@ background-position: 50% 50%
 
 ---
 
-class: center, middle
-
 # Public perceptions of<br> ocean alkalinity enhancement
+
+### .purple[ Amirah Casey (PhD student) ]
+
+### .green[ Alex McInturff (USGS, UW) ]
+
+### .green[ Carter Smith (UW) ]
+
+### .green[ Fiero Marine Life Center ]
+
+<br>
+
+## Funding: NSF, UW
+
 
 ---
 
@@ -563,7 +586,7 @@ class: middle, center, inverse
 
 ---
 
-# Effects of sampling designs for remotely operated vehicles on estimates of groundfish density
+# Effects of sampling designs for remotely operated vehicles on groundfish estimates
 
 ### .purple[ Andrea Hennings (WDFW, MS student) ]
 
