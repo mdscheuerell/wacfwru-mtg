@@ -81,11 +81,22 @@ class: center, middle, inverse
 
 ---
 
-class: center
+class: center, middle, inverse
 
-background-image: url(figs/min_title.png)
-background-size: 95%
-background-position: 50% 50%
+# Climate and hydropower influences on steelhead movements in the Columbia River
+
+
+---
+
+# Collaborators
+
+### .purple[ Markus Min (PhD student) ]
+
+### .green[ Rebecca Buchanan (Columbia Basin Research, UW) ]
+
+<br>
+
+## Funding: Bonneville Power Admin, NSF
 
 
 ---
@@ -112,6 +123,15 @@ class: center
 
 background-image: url(figs/min_fig_3.png)
 background-size: 70%
+background-position: 50% 50%
+
+
+---
+
+class: center
+
+background-image: url(figs/min_title.png)
+background-size: 95%
 background-position: 50% 50%
 
 
@@ -161,8 +181,8 @@ background-position: 50% 50%
 
 class: center
 
-background-image: url(figs/mcgreal_title.png)
-background-size: 80%
+background-image: url(figs/sitka_states.png)
+background-size: 95%
 background-position: 50% 50%
 
 
@@ -170,7 +190,16 @@ background-position: 50% 50%
 
 class: center
 
-background-image: url(figs/sitka_states.png)
+background-image: url(figs/mcgreal_title.png)
+background-size: 80%
+background-position: 50% 50%
+
+
+---
+
+class: center, inverse-black
+
+background-image: url(figs/goldfarb.png)
 background-size: 95%
 background-position: 50% 50%
 
@@ -179,7 +208,16 @@ background-position: 50% 50%
 
 class: center, inverse-black
 
-background-image: url(figs/goldfarb.jpg)
+background-image: url(figs/nps_mag.jpg)
+background-size: 45%
+background-position: 50% 50%
+
+
+---
+
+class: center, inverse-black
+
+background-image: url(figs/denizens.jpg)
 background-size: 45%
 background-position: 50% 50%
 
@@ -208,6 +246,28 @@ class: center, middle, inverse
 <br>
 
 ### Funding: NSF, USGS, Ebb Carbon
+
+
+---
+
+class: center
+
+background-image: url(figs/mcdr.jpg)
+background-size: 80%
+background-position: 50% 50%
+
+### .credit2[NOAA]
+
+
+---
+
+class: center
+
+background-image: url(figs/oae_schema.png)
+background-size: 35%
+background-position: 50% 50%
+
+### .credit2[Ocean Visions]
 
 
 ---
