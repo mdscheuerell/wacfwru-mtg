@@ -411,6 +411,37 @@ background-position: 50% 50%
 
 ---
 
+class: center, inverse-black
+
+background-image: url(figs/oysters_insitu.png)
+background-size: 70%
+background-position: 50% 50%
+
+### .credit2.white[A Casey]
+
+
+---
+
+class: center, inverse-black
+
+background-image: url(figs/oysters_prepped.jpg)
+background-size: 70%
+background-position: 50% 50%
+
+### .credit2.white[A Casey]
+
+
+---
+
+class: center, inverse-black
+
+background-image: url(figs/marrowstone.jpg)
+background-size: 95%
+background-position: 50% 50%
+
+
+---
+
 class: center, middle
 
 # Hatching success of herring eggs
@@ -457,7 +488,7 @@ background-position: 50% 50%
 
 class: center, middle
 
-# Effect on smolt behavior
+# Effect of OAE on smolt behavior
 
 
 ---
@@ -533,15 +564,6 @@ background-position: 50% 50%
 
 ---
 
-# Next steps
-
-> ## .blue[Statistical modeling of spatio-temporal patterns]
-
-> ## .blue[Present findings at the WA-BC AFS meeting in March]
-
-
----
-
 class: middle, center, inverse
 
 # Looking ahead
@@ -561,6 +583,12 @@ class: middle, center, inverse
 
 ## Funding: UW Keeler Endowment
 
+
+---
+
+class: middle 
+
+> # How have diets of nonnative bass & native pikeminnow changed over the past 20 years?
 
 ---
 
